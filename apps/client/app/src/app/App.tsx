@@ -18,6 +18,7 @@ export const App = () => {
 
   return (
     <>
+      <Task task={{ id: 3223, title: 'Title', state: 'active' }} onArchiveTask={() => {}} onPinTask={() => {}}></Task>
       <StatusBar barStyle="dark-content" />
       <SafeAreaView>
         <ScrollView
