@@ -94,6 +94,14 @@
           "codeCoverage": true
         }
       }
+    },
+    "storybook": {
+      "executor": "@nx/react-native:storybook",
+      "options": {
+        "searchDir": ["apps/client/app/src"],
+        "outputFile": "./.storybook/story-loader.js",
+        "pattern": "**/*.stories.@(js|jsx|ts|tsx|md)"
+      }
     }
   },
   "tags": []
