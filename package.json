@@ -21,7 +21,7 @@
     "@nx/react-native": "16.7.2",
     "@nx/storybook": "16.7.2",
     "@nx/workspace": "16.7.2",
-    "@react-native-async-storage/async-storage": "1.19.0",
+    "@react-native-async-storage/async-storage": "^1.19.0",
     "@react-native-community/cli": "11.3.5",
     "@react-native-community/cli-platform-android": "11.3.5",
     "@react-native-community/cli-platform-ios": "11.3.5",
