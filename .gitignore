@@ -109,3 +109,4 @@ yarn-error.log
 
 
 apps/client/app-e2e/artifacts
+/apps/client/app/ios/Pods/
